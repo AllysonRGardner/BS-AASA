@@ -1,0 +1,15 @@
+{
+"applinks": {
+  "details": [
+    {
+      "appIDs": ["42RWBGTSB9.com.kidsnbooks.BlendingStack"],
+      "components": [
+        {
+          "/": "/account",
+          "?": { "name": "*", "begin": "*", "middle": "*", "end": "*" },
+          "comment": "Opens the app and adds the shared stack to your account"
+        }
+      ]
+    }
+    }
+}
