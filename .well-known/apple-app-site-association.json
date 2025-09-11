@@ -6,6 +6,7 @@
         "components": [
           {
             "/": "/account",
+            "?": ["name": "*", "begin": "*", "middle": "*", "end": "*"],
             "comment": "Opens the app and adds the shared stack to your account"
           },
           {
